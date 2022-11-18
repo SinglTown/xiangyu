@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://172.19.203.172:8083/download?data=DB+JwwgGEtM7Mm8W0VVs/VDs/QdapUfCbG9Gi0sK59qacRIjwS0HHOQI0zODuKWh4zRjFGcBtb3u5JRuzdLA6V5a+tW8AhwRmwZ8T/rTNAcM7JqrL6X7CvPSM0ve0rXKpnst26VgAq4FaeFsib9DyhdH1Xi6O/AbMi13ZUcjouxsccjN2lgSP+X3tbMSgSWdzoDbF5rWViZ4gw9CUYJpqiFz7EvyrmEPBwj1yBTGYhvFJcUy5TlmaZ5jp7IG/ZnCbm0hxMFp1R2RQ2X29yNyRSFbqZb5gyqvwBHjBINR0Oyg1qmDd16Yqw/owAyiNZM/d29gGfyh6BOrimTo2PtJAQ==</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://172.19.203.172:8082/build_apps/xiangyu/xiangyuceshi/images/icon.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://172.19.203.172:8082/build_apps/xiangyu/xiangyuceshi/images/icon.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>title</key>
+				<string>智慧</string>
+				<key>bundle-version</key>
+				<string>3.2.5</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>bundle-identifier</key>
+				<string>com.founder.xiahexian</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
